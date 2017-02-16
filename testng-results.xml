@@ -1,0 +1,1953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Go to page: <br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: Bar Graph<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Set category axis location<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Set data axis location<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Go to preview Page<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixAxisOrdinal<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixAxisLinear<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixLegend<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixGraph<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Verify preview page CATEGORY axis location is equal to: bottom<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Make sure axis location is on bottom is set to: true<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Verify preview page DATA axis location is equal to: right<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Make sure axis location is on left is set to: false<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Go to preview Page<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixAxisOrdinal<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixAxisLinear<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixLegend<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixGraph<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Verify the bar orientation is set to : vertical<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Make sure bar horizontal orientation is set to: false<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; SauceOnDemandSessionID=425e3511621443c7af2e345fbe262be3 job-name=barGraphAuthorAxisLocationTest<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Go to page: <br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: Bar Graph<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Set data axis is reversed to: true<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Go to preview Page<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixAxisOrdinal<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixAxisLinear<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixLegend<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixGraph<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Verify the data axis reverses is set to : true<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Make sure axis is reversed is: true<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; SauceOnDemandSessionID=9106045a1214493c9d76d4da2c3070a4 job-name=barGraphAuthorAxisReverseTest<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Go to page: <br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: Bar Graph<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Set bar orientation<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Go to preview Page<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixAxisOrdinal<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixAxisLinear<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixLegend<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixGraph<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Verify the bar orientation is set to : vertical<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Make sure bar horizontal orientation is set to: false<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; SauceOnDemandSessionID=01f8d25fa19745ff98ccd4fc1e52d3a7 job-name=barGraphAuthorBarOrientationTest<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Go to page: <br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: Bar Graph<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Set Don't label me bro!<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Set It would be nice to see what happens when someone gets very wordy with their label, but I don't do that.<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Go to preview Page<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixAxisOrdinal<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixAxisLinear<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixLegend<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixGraph<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Verify preview page category axis label is equal to: Don't label me bro!<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Verify preview page data axis label is equal to: It would be nice to see what happens when someone gets very wordy with their label, but I don't do that.<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Make sure x axis label is set to: Don't label me bro!<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Make sure y axis label is set to: It would be nice to see what happens when someone gets very wordy with their label, but I don't do that.<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; SauceOnDemandSessionID=8402f0387386428c99aa58aa5ee83607 job-name=barGraphAuthorTabAxisTest<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Go to page: <br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: Bar Graph<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Set the svg container dimensions<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixSvgContainer<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Verify svg Container max width equal to: 600<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Verify svg Container max height equal to: 400<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; SauceOnDemandSessionID=daad933c29324ee39b46b2c3f95ea9f5 job-name=barGraphAuthorTabDimensionTest<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Go to page: <br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: Bar Graph<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Delete all the traces<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Add new traces<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Set the x and y points for the row: 1<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Set the x and y points for the row: 2<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Add a new point for trace number: 1 and set the x and y points for the row: 3<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Set the x and y points for the row: 1<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Set the x and y points for the row: 2<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Add a new point for trace number: 2 and set the x and y points for the row: 3<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Set the x and y points for the row: 1<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Set the x and y points for the row: 2<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Add a new point for trace number: 3 and set the x and y points for the row: 3<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Go to preview Page<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixAxisOrdinal<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixAxisLinear<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixLegend<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixGraph<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Verify number of legend series equal to: 3<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Verify text equal to: Periodical Data<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Verify text equal to: Trace Two<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Verify text equal to: Trace Three<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; SauceOnDemandSessionID=4c2e488d85524effbbc93642e7b0861d job-name=barGraphAuthorTabLegendTest<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Go to page: <br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: Bar Graph<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Set Data axis tick values<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Set y axis (data axis) tick format<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Go to preview Page<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixAxisOrdinal<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixAxisLinear<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixLegend<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixGraph<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Format the tick values according to the tick format: 0.1f<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Verify the data axis tick values are equal to : [Ljava.lang.String;@2eae8ec3<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Make sure ticks are formatted as[Ljava.lang.String;@2eae8ec3<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Go to author Page<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: Bar Graph<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Set y axis (data axis) tick format<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Go to preview Page<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixAxisOrdinal<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixAxisLinear<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixLegend<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixGraph<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Format the tick values according to the tick format: d<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Verify the data axis tick values are equal to : [Ljava.lang.String;@14032d59<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Make sure ticks are formatted as[Ljava.lang.String;@14032d59<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Go to author Page<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: Bar Graph<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Set y axis (data axis) tick format<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Go to preview Page<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixAxisOrdinal<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixAxisLinear<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixLegend<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixGraph<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Format the tick values according to the tick format: 0.1f<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Verify the data axis tick values are equal to : [Ljava.lang.String;@4eea8f12<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Make sure ticks are formatted as[Ljava.lang.String;@4eea8f12<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Go to author Page<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: Bar Graph<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Set y axis (data axis) tick format<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Go to preview Page<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixAxisOrdinal<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixAxisLinear<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixLegend<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixGraph<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Format the tick values according to the tick format: 0.2f<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Verify the data axis tick values are equal to : [Ljava.lang.String;@f07c6d9<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Make sure ticks are formatted as[Ljava.lang.String;@f07c6d9<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Go to author Page<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: Bar Graph<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; SauceOnDemandSessionID=0015ace8b70d4d3b9a5362fa173a17de job-name=barGraphAuthorTabTickFormatTest<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Go to page: <br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: Bar Graph<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Delete all the traces<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Add new traces<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Set the x and y points for the row: 1<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Set the x and y points for the row: 2<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Add a new point for trace number: 1 and set the x and y points for the row: 3<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Set the x and y points for the row: 1<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Set the x and y points for the row: 2<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Add a new point for trace number: 2 and set the x and y points for the row: 3<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Set the x and y points for the row: 1<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Set the x and y points for the row: 2<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Add a new point for trace number: 3 and set the x and y points for the row: 3<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Set Data axis tick values<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Set Category axis tick values<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Re order category tick values according to the trace order<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Go to preview Page<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixAxisOrdinal<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixAxisLinear<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixLegend<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Check that piece class equals: brixGraph<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Verify points equal to: [0.0, 5.0, 10.0, 15.0, 20.0, 25.0, 30.0, 35.0, 40.0]<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; Verify points equal to: [Tabloids, Periodicals, Novellas, Category 1, Category 2, Category 3]<br/>]]>
+    </line>
+    <line>
+      <![CDATA[&bull; SauceOnDemandSessionID=ebd58ebcbcc346c68b8fb681fb6b7fea job-name=barGraphAuthorTabTickValueTest<br/>]]>
+    </line>
+  </reporter-output>
+  <suite name="Nemo Tests" duration-ms="1365509" started-at="2017-02-13T07:22:16Z" finished-at="2017-02-13T07:45:01Z">
+    <groups>
+      <group name="BarChartQuestionDetailedNT">
+        <method signature="BarChartQuestionNT.barGraphAuthorAxisLocationTest()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="barGraphAuthorAxisLocationTest" class="com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT"/>
+        <method signature="BarChartQuestionNT.barGraphAuthorAxisReverseTest()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="barGraphAuthorAxisReverseTest" class="com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT"/>
+        <method signature="BarChartQuestionNT.barGraphAuthorBarOrientationTest()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="barGraphAuthorBarOrientationTest" class="com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT"/>
+        <method signature="BarChartQuestionNT.barGraphAuthorTabAxisTest()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="barGraphAuthorTabAxisTest" class="com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT"/>
+        <method signature="BarChartQuestionNT.barGraphAuthorTabDimensionTest()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="barGraphAuthorTabDimensionTest" class="com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT"/>
+        <method signature="BarChartQuestionNT.barGraphAuthorTabLegendTest()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="barGraphAuthorTabLegendTest" class="com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT"/>
+        <method signature="BarChartQuestionNT.barGraphAuthorTabTickFormatTest()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="barGraphAuthorTabTickFormatTest" class="com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT"/>
+        <method signature="BarChartQuestionNT.barGraphAuthorTabTickValueTest()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="barGraphAuthorTabTickValueTest" class="com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT"/>
+      </group> <!-- BarChartQuestionDetailedNT -->
+    </groups>
+    <test name="BarChart QuestionNT NT" duration-ms="1365509" started-at="2017-02-13T07:22:16Z" finished-at="2017-02-13T07:45:01Z">
+      <class name="com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT">
+        <test-method status="PASS" signature="setupSuite(java.lang.String, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="setupSuite" is-config="true" duration-ms="245" started-at="2017-02-13T07:22:15Z" finished-at="2017-02-13T07:22:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[local]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@2f2bf0e2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupSuite -->
+        <test-method status="PASS" signature="beforeTest(java.lang.String, java.lang.String, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="beforeTest" is-config="true" duration-ms="168" started-at="2017-02-13T07:22:16Z" finished-at="2017-02-13T07:22:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DEFAULT]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DEFAULT]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[DEFAULT]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[org.testng.TestRunner@2f2bf0e2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="setupClass(org.testng.ITestContext)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="setupClass" is-config="true" duration-ms="0" started-at="2017-02-13T07:22:16Z" finished-at="2017-02-13T07:22:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2f2bf0e2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupClass -->
+        <test-method status="PASS" signature="logMethod(java.lang.reflect.Method)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="logMethod" is-config="true" duration-ms="80" started-at="2017-02-13T07:22:16Z" finished-at="2017-02-13T07:22:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT.barGraphAuthorAxisLocationTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logMethod -->
+        <test-method status="PASS" signature="setupMethod(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="setupMethod" is-config="true" duration-ms="9589" started-at="2017-02-13T07:22:16Z" finished-at="2017-02-13T07:22:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2f2bf0e2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT.barGraphAuthorAxisLocationTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="goToItemsPage()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="goToItemsPage" is-config="true" duration-ms="10979" started-at="2017-02-13T07:22:26Z" depends-on-methods="com.pearson.test.eselenium.brix.tests.BasicBrixTest.setupMethod" finished-at="2017-02-13T07:22:37Z">
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Go to page: <br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- goToItemsPage -->
+        <test-method status="PASS" signature="gotoAuthorPage()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="gotoAuthorPage" is-config="true" duration-ms="13156" started-at="2017-02-13T07:22:37Z" depends-on-methods="com.pearson.test.eselenium.brix.tests.nemo.integration.AdvancedBasicBrixNT.goToItemsPage" finished-at="2017-02-13T07:22:50Z">
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- gotoAuthorPage -->
+        <test-method status="PASS" signature="loadBarChartAuthorTest()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="loadBarChartAuthorTest" is-config="true" duration-ms="2632" started-at="2017-02-13T07:22:50Z" depends-on-methods="com.pearson.test.eselenium.brix.tests.nemo.integration.AdvancedBasicBrixNT.gotoAuthorPage" finished-at="2017-02-13T07:22:52Z">
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: Bar Graph<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loadBarChartAuthorTest -->
+        <test-method status="PASS" signature="barGraphAuthorAxisLocationTest()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="barGraphAuthorAxisLocationTest" duration-ms="128154" started-at="2017-02-13T07:22:52Z" finished-at="2017-02-13T07:25:00Z">
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; Set category axis location<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Set data axis location<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Go to preview Page<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixAxisOrdinal<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixAxisLinear<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixLegend<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixGraph<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Verify preview page CATEGORY axis location is equal to: bottom<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Make sure axis location is on bottom is set to: true<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Verify preview page DATA axis location is equal to: right<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Make sure axis location is on left is set to: false<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Go to preview Page<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixAxisOrdinal<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixAxisLinear<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixLegend<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixGraph<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Verify the bar orientation is set to : vertical<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Make sure bar horizontal orientation is set to: false<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- barGraphAuthorAxisLocationTest -->
+        <test-method status="PASS" signature="afterSuite(org.testng.ITestContext)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="afterSuite" is-config="true" duration-ms="343" started-at="2017-02-13T07:25:00Z" finished-at="2017-02-13T07:25:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2f2bf0e2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="afterMethod" is-config="true" duration-ms="450" started-at="2017-02-13T07:25:01Z" finished-at="2017-02-13T07:25:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=barGraphAuthorAxisLocationTest status=SUCCESS method=BarChartQuestionNT.barGraphAuthorAxisLocationTest()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1] output=&bull; Set category axis location<br/>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; SauceOnDemandSessionID=425e3511621443c7af2e345fbe262be3 job-name=barGraphAuthorAxisLocationTest<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-02-13T07:25:01Z" finished-at="2017-02-13T07:25:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT.barGraphAuthorAxisLocationTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="logMethod(java.lang.reflect.Method)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="logMethod" is-config="true" duration-ms="1" started-at="2017-02-13T07:25:01Z" finished-at="2017-02-13T07:25:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT.barGraphAuthorAxisReverseTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logMethod -->
+        <test-method status="PASS" signature="setupMethod(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="setupMethod" is-config="true" duration-ms="5880" started-at="2017-02-13T07:25:01Z" finished-at="2017-02-13T07:25:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2f2bf0e2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT.barGraphAuthorAxisReverseTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="goToItemsPage()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="goToItemsPage" is-config="true" duration-ms="12237" started-at="2017-02-13T07:25:07Z" depends-on-methods="com.pearson.test.eselenium.brix.tests.BasicBrixTest.setupMethod" finished-at="2017-02-13T07:25:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Go to page: <br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- goToItemsPage -->
+        <test-method status="PASS" signature="gotoAuthorPage()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="gotoAuthorPage" is-config="true" duration-ms="14020" started-at="2017-02-13T07:25:19Z" depends-on-methods="com.pearson.test.eselenium.brix.tests.nemo.integration.AdvancedBasicBrixNT.goToItemsPage" finished-at="2017-02-13T07:25:33Z">
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- gotoAuthorPage -->
+        <test-method status="PASS" signature="loadBarChartAuthorTest()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="loadBarChartAuthorTest" is-config="true" duration-ms="2109" started-at="2017-02-13T07:25:33Z" depends-on-methods="com.pearson.test.eselenium.brix.tests.nemo.integration.AdvancedBasicBrixNT.gotoAuthorPage" finished-at="2017-02-13T07:25:36Z">
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: Bar Graph<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loadBarChartAuthorTest -->
+        <test-method status="PASS" signature="barGraphAuthorAxisReverseTest()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="barGraphAuthorAxisReverseTest" duration-ms="66432" started-at="2017-02-13T07:25:36Z" finished-at="2017-02-13T07:26:42Z">
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; Set data axis is reversed to: true<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Go to preview Page<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixAxisOrdinal<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixAxisLinear<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixLegend<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixGraph<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Verify the data axis reverses is set to : true<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Make sure axis is reversed is: true<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- barGraphAuthorAxisReverseTest -->
+        <test-method status="PASS" signature="afterSuite(org.testng.ITestContext)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="afterSuite" is-config="true" duration-ms="390" started-at="2017-02-13T07:26:42Z" finished-at="2017-02-13T07:26:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2f2bf0e2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="afterMethod" is-config="true" duration-ms="288" started-at="2017-02-13T07:26:42Z" finished-at="2017-02-13T07:26:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=barGraphAuthorAxisReverseTest status=SUCCESS method=BarChartQuestionNT.barGraphAuthorAxisReverseTest()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1] output=&bull; Set data axis is reversed to: true<br/>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; SauceOnDemandSessionID=9106045a1214493c9d76d4da2c3070a4 job-name=barGraphAuthorAxisReverseTest<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-02-13T07:26:43Z" finished-at="2017-02-13T07:26:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT.barGraphAuthorAxisReverseTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="setupMethod(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="setupMethod" is-config="true" duration-ms="2971" started-at="2017-02-13T07:26:43Z" finished-at="2017-02-13T07:26:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2f2bf0e2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT.barGraphAuthorBarOrientationTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="logMethod(java.lang.reflect.Method)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="logMethod" is-config="true" duration-ms="0" started-at="2017-02-13T07:26:43Z" finished-at="2017-02-13T07:26:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT.barGraphAuthorBarOrientationTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logMethod -->
+        <test-method status="PASS" signature="goToItemsPage()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="goToItemsPage" is-config="true" duration-ms="14319" started-at="2017-02-13T07:26:46Z" depends-on-methods="com.pearson.test.eselenium.brix.tests.BasicBrixTest.setupMethod" finished-at="2017-02-13T07:27:00Z">
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Go to page: <br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- goToItemsPage -->
+        <test-method status="PASS" signature="gotoAuthorPage()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="gotoAuthorPage" is-config="true" duration-ms="14074" started-at="2017-02-13T07:27:00Z" depends-on-methods="com.pearson.test.eselenium.brix.tests.nemo.integration.AdvancedBasicBrixNT.goToItemsPage" finished-at="2017-02-13T07:27:14Z">
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- gotoAuthorPage -->
+        <test-method status="PASS" signature="loadBarChartAuthorTest()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="loadBarChartAuthorTest" is-config="true" duration-ms="1847" started-at="2017-02-13T07:27:14Z" depends-on-methods="com.pearson.test.eselenium.brix.tests.nemo.integration.AdvancedBasicBrixNT.gotoAuthorPage" finished-at="2017-02-13T07:27:16Z">
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: Bar Graph<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loadBarChartAuthorTest -->
+        <test-method status="PASS" signature="barGraphAuthorBarOrientationTest()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="barGraphAuthorBarOrientationTest" duration-ms="58848" started-at="2017-02-13T07:27:16Z" finished-at="2017-02-13T07:28:15Z">
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; Set bar orientation<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Go to preview Page<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixAxisOrdinal<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixAxisLinear<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixLegend<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixGraph<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Verify the bar orientation is set to : vertical<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Make sure bar horizontal orientation is set to: false<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- barGraphAuthorBarOrientationTest -->
+        <test-method status="PASS" signature="afterSuite(org.testng.ITestContext)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="afterSuite" is-config="true" duration-ms="342" started-at="2017-02-13T07:28:15Z" finished-at="2017-02-13T07:28:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2f2bf0e2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="afterMethod" is-config="true" duration-ms="382" started-at="2017-02-13T07:28:15Z" finished-at="2017-02-13T07:28:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=barGraphAuthorBarOrientationTest status=SUCCESS method=BarChartQuestionNT.barGraphAuthorBarOrientationTest()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1] output=&bull; Set bar orientation<br/>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; SauceOnDemandSessionID=01f8d25fa19745ff98ccd4fc1e52d3a7 job-name=barGraphAuthorBarOrientationTest<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-02-13T07:28:15Z" finished-at="2017-02-13T07:28:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT.barGraphAuthorBarOrientationTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="logMethod(java.lang.reflect.Method)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="logMethod" is-config="true" duration-ms="0" started-at="2017-02-13T07:28:15Z" finished-at="2017-02-13T07:28:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT.barGraphAuthorTabAxisTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logMethod -->
+        <test-method status="PASS" signature="setupMethod(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="setupMethod" is-config="true" duration-ms="2581" started-at="2017-02-13T07:28:15Z" finished-at="2017-02-13T07:28:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2f2bf0e2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT.barGraphAuthorTabAxisTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="goToItemsPage()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="goToItemsPage" is-config="true" duration-ms="10510" started-at="2017-02-13T07:28:18Z" depends-on-methods="com.pearson.test.eselenium.brix.tests.BasicBrixTest.setupMethod" finished-at="2017-02-13T07:28:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Go to page: <br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- goToItemsPage -->
+        <test-method status="PASS" signature="gotoAuthorPage()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="gotoAuthorPage" is-config="true" duration-ms="17675" started-at="2017-02-13T07:28:29Z" depends-on-methods="com.pearson.test.eselenium.brix.tests.nemo.integration.AdvancedBasicBrixNT.goToItemsPage" finished-at="2017-02-13T07:28:46Z">
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- gotoAuthorPage -->
+        <test-method status="PASS" signature="loadBarChartAuthorTest()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="loadBarChartAuthorTest" is-config="true" duration-ms="2036" started-at="2017-02-13T07:28:46Z" depends-on-methods="com.pearson.test.eselenium.brix.tests.nemo.integration.AdvancedBasicBrixNT.gotoAuthorPage" finished-at="2017-02-13T07:28:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: Bar Graph<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loadBarChartAuthorTest -->
+        <test-method status="PASS" signature="barGraphAuthorTabAxisTest()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="barGraphAuthorTabAxisTest" duration-ms="70326" started-at="2017-02-13T07:28:48Z" finished-at="2017-02-13T07:29:59Z">
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; Set Don't label me bro!<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Set It would be nice to see what happens when someone gets very wordy with their label, but I don't do that.<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Go to preview Page<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixAxisOrdinal<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixAxisLinear<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixLegend<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixGraph<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Verify preview page category axis label is equal to: Don't label me bro!<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Verify preview page data axis label is equal to: It would be nice to see what happens when someone gets very wordy with their label, but I don't do that.<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Make sure x axis label is set to: Don't label me bro!<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Make sure y axis label is set to: It would be nice to see what happens when someone gets very wordy with their label, but I don't do that.<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- barGraphAuthorTabAxisTest -->
+        <test-method status="PASS" signature="afterSuite(org.testng.ITestContext)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="afterSuite" is-config="true" duration-ms="401" started-at="2017-02-13T07:29:59Z" finished-at="2017-02-13T07:29:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2f2bf0e2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="afterMethod" is-config="true" duration-ms="270" started-at="2017-02-13T07:29:59Z" finished-at="2017-02-13T07:29:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=barGraphAuthorTabAxisTest status=SUCCESS method=BarChartQuestionNT.barGraphAuthorTabAxisTest()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1] output=&bull; Set Don't label me bro!<br/>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; SauceOnDemandSessionID=8402f0387386428c99aa58aa5ee83607 job-name=barGraphAuthorTabAxisTest<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-02-13T07:29:59Z" finished-at="2017-02-13T07:29:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT.barGraphAuthorTabAxisTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="setupMethod(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="setupMethod" is-config="true" duration-ms="2457" started-at="2017-02-13T07:29:59Z" finished-at="2017-02-13T07:30:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2f2bf0e2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT.barGraphAuthorTabDimensionTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="logMethod(java.lang.reflect.Method)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="logMethod" is-config="true" duration-ms="0" started-at="2017-02-13T07:29:59Z" finished-at="2017-02-13T07:29:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT.barGraphAuthorTabDimensionTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logMethod -->
+        <test-method status="PASS" signature="goToItemsPage()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="goToItemsPage" is-config="true" duration-ms="9071" started-at="2017-02-13T07:30:02Z" depends-on-methods="com.pearson.test.eselenium.brix.tests.BasicBrixTest.setupMethod" finished-at="2017-02-13T07:30:11Z">
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Go to page: <br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- goToItemsPage -->
+        <test-method status="PASS" signature="gotoAuthorPage()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="gotoAuthorPage" is-config="true" duration-ms="14172" started-at="2017-02-13T07:30:11Z" depends-on-methods="com.pearson.test.eselenium.brix.tests.nemo.integration.AdvancedBasicBrixNT.goToItemsPage" finished-at="2017-02-13T07:30:25Z">
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- gotoAuthorPage -->
+        <test-method status="PASS" signature="loadBarChartAuthorTest()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="loadBarChartAuthorTest" is-config="true" duration-ms="1932" started-at="2017-02-13T07:30:25Z" depends-on-methods="com.pearson.test.eselenium.brix.tests.nemo.integration.AdvancedBasicBrixNT.gotoAuthorPage" finished-at="2017-02-13T07:30:27Z">
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: Bar Graph<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loadBarChartAuthorTest -->
+        <test-method status="PASS" signature="barGraphAuthorTabDimensionTest()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="barGraphAuthorTabDimensionTest" duration-ms="10147" started-at="2017-02-13T07:30:27Z" finished-at="2017-02-13T07:30:37Z">
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; Set the svg container dimensions<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixSvgContainer<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Verify svg Container max width equal to: 600<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Verify svg Container max height equal to: 400<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- barGraphAuthorTabDimensionTest -->
+        <test-method status="PASS" signature="afterSuite(org.testng.ITestContext)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="afterSuite" is-config="true" duration-ms="339" started-at="2017-02-13T07:30:37Z" finished-at="2017-02-13T07:30:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2f2bf0e2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="afterMethod" is-config="true" duration-ms="298" started-at="2017-02-13T07:30:37Z" finished-at="2017-02-13T07:30:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=barGraphAuthorTabDimensionTest status=SUCCESS method=BarChartQuestionNT.barGraphAuthorTabDimensionTest()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1] output=&bull; Set the svg container dimensions<br/>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; SauceOnDemandSessionID=daad933c29324ee39b46b2c3f95ea9f5 job-name=barGraphAuthorTabDimensionTest<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-02-13T07:30:38Z" finished-at="2017-02-13T07:30:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT.barGraphAuthorTabDimensionTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="logMethod(java.lang.reflect.Method)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="logMethod" is-config="true" duration-ms="3" started-at="2017-02-13T07:30:38Z" finished-at="2017-02-13T07:30:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT.barGraphAuthorTabLegendTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logMethod -->
+        <test-method status="PASS" signature="setupMethod(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="setupMethod" is-config="true" duration-ms="5429" started-at="2017-02-13T07:30:38Z" finished-at="2017-02-13T07:30:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2f2bf0e2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT.barGraphAuthorTabLegendTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="goToItemsPage()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="goToItemsPage" is-config="true" duration-ms="10259" started-at="2017-02-13T07:30:43Z" depends-on-methods="com.pearson.test.eselenium.brix.tests.BasicBrixTest.setupMethod" finished-at="2017-02-13T07:30:53Z">
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Go to page: <br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- goToItemsPage -->
+        <test-method status="PASS" signature="gotoAuthorPage()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="gotoAuthorPage" is-config="true" duration-ms="12444" started-at="2017-02-13T07:30:53Z" depends-on-methods="com.pearson.test.eselenium.brix.tests.nemo.integration.AdvancedBasicBrixNT.goToItemsPage" finished-at="2017-02-13T07:31:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- gotoAuthorPage -->
+        <test-method status="PASS" signature="loadBarChartAuthorTest()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="loadBarChartAuthorTest" is-config="true" duration-ms="1903" started-at="2017-02-13T07:31:06Z" depends-on-methods="com.pearson.test.eselenium.brix.tests.nemo.integration.AdvancedBasicBrixNT.gotoAuthorPage" finished-at="2017-02-13T07:31:08Z">
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: Bar Graph<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loadBarChartAuthorTest -->
+        <test-method status="PASS" signature="barGraphAuthorTabLegendTest()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="barGraphAuthorTabLegendTest" duration-ms="202149" started-at="2017-02-13T07:31:08Z" finished-at="2017-02-13T07:34:30Z">
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; Delete all the traces<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Add new traces<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Set the x and y points for the row: 1<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Set the x and y points for the row: 2<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Add a new point for trace number: 1 and set the x and y points for the row: 3<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Set the x and y points for the row: 1<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Set the x and y points for the row: 2<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Add a new point for trace number: 2 and set the x and y points for the row: 3<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Set the x and y points for the row: 1<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Set the x and y points for the row: 2<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Add a new point for trace number: 3 and set the x and y points for the row: 3<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Go to preview Page<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixAxisOrdinal<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixAxisLinear<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixLegend<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixGraph<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Verify number of legend series equal to: 3<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Verify text equal to: Periodical Data<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Verify text equal to: Trace Two<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Verify text equal to: Trace Three<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- barGraphAuthorTabLegendTest -->
+        <test-method status="PASS" signature="afterSuite(org.testng.ITestContext)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="afterSuite" is-config="true" duration-ms="337" started-at="2017-02-13T07:34:30Z" finished-at="2017-02-13T07:34:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2f2bf0e2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="afterMethod" is-config="true" duration-ms="387" started-at="2017-02-13T07:34:30Z" finished-at="2017-02-13T07:34:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=barGraphAuthorTabLegendTest status=SUCCESS method=BarChartQuestionNT.barGraphAuthorTabLegendTest()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1] output=&bull; Delete all the traces<br/>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; SauceOnDemandSessionID=4c2e488d85524effbbc93642e7b0861d job-name=barGraphAuthorTabLegendTest<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="logMethod(java.lang.reflect.Method)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="logMethod" is-config="true" duration-ms="2" started-at="2017-02-13T07:34:31Z" finished-at="2017-02-13T07:34:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT.barGraphAuthorTabTickFormatTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logMethod -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-02-13T07:34:31Z" finished-at="2017-02-13T07:34:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT.barGraphAuthorTabLegendTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="setupMethod(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="setupMethod" is-config="true" duration-ms="2526" started-at="2017-02-13T07:34:31Z" finished-at="2017-02-13T07:34:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2f2bf0e2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT.barGraphAuthorTabTickFormatTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="goToItemsPage()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="goToItemsPage" is-config="true" duration-ms="10463" started-at="2017-02-13T07:34:33Z" depends-on-methods="com.pearson.test.eselenium.brix.tests.BasicBrixTest.setupMethod" finished-at="2017-02-13T07:34:44Z">
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Go to page: <br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- goToItemsPage -->
+        <test-method status="PASS" signature="gotoAuthorPage()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="gotoAuthorPage" is-config="true" duration-ms="12918" started-at="2017-02-13T07:34:44Z" depends-on-methods="com.pearson.test.eselenium.brix.tests.nemo.integration.AdvancedBasicBrixNT.goToItemsPage" finished-at="2017-02-13T07:34:56Z">
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- gotoAuthorPage -->
+        <test-method status="PASS" signature="loadBarChartAuthorTest()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="loadBarChartAuthorTest" is-config="true" duration-ms="1877" started-at="2017-02-13T07:34:56Z" depends-on-methods="com.pearson.test.eselenium.brix.tests.nemo.integration.AdvancedBasicBrixNT.gotoAuthorPage" finished-at="2017-02-13T07:34:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: Bar Graph<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loadBarChartAuthorTest -->
+        <test-method status="PASS" signature="barGraphAuthorTabTickFormatTest()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="barGraphAuthorTabTickFormatTest" duration-ms="286352" started-at="2017-02-13T07:34:58Z" finished-at="2017-02-13T07:39:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; Set Data axis tick values<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Set y axis (data axis) tick format<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Go to preview Page<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixAxisOrdinal<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixAxisLinear<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixLegend<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixGraph<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Format the tick values according to the tick format: 0.1f<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Verify the data axis tick values are equal to : [Ljava.lang.String;@2eae8ec3<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Make sure ticks are formatted as[Ljava.lang.String;@2eae8ec3<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Go to author Page<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: Bar Graph<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Set y axis (data axis) tick format<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Go to preview Page<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixAxisOrdinal<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixAxisLinear<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixLegend<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixGraph<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Format the tick values according to the tick format: d<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Verify the data axis tick values are equal to : [Ljava.lang.String;@14032d59<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Make sure ticks are formatted as[Ljava.lang.String;@14032d59<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Go to author Page<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: Bar Graph<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Set y axis (data axis) tick format<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Go to preview Page<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixAxisOrdinal<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixAxisLinear<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixLegend<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixGraph<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Format the tick values according to the tick format: 0.1f<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Verify the data axis tick values are equal to : [Ljava.lang.String;@4eea8f12<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Make sure ticks are formatted as[Ljava.lang.String;@4eea8f12<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Go to author Page<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: Bar Graph<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Set y axis (data axis) tick format<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Go to preview Page<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixAxisOrdinal<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixAxisLinear<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixLegend<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixGraph<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Format the tick values according to the tick format: 0.2f<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Verify the data axis tick values are equal to : [Ljava.lang.String;@f07c6d9<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Make sure ticks are formatted as[Ljava.lang.String;@f07c6d9<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Go to author Page<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: Bar Graph<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- barGraphAuthorTabTickFormatTest -->
+        <test-method status="PASS" signature="afterSuite(org.testng.ITestContext)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="afterSuite" is-config="true" duration-ms="335" started-at="2017-02-13T07:39:45Z" finished-at="2017-02-13T07:39:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2f2bf0e2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="afterMethod" is-config="true" duration-ms="383" started-at="2017-02-13T07:39:45Z" finished-at="2017-02-13T07:39:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=barGraphAuthorTabTickFormatTest status=SUCCESS method=BarChartQuestionNT.barGraphAuthorTabTickFormatTest()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1] output=&bull; Set Data axis tick values<br/>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; SauceOnDemandSessionID=0015ace8b70d4d3b9a5362fa173a17de job-name=barGraphAuthorTabTickFormatTest<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-02-13T07:39:45Z" finished-at="2017-02-13T07:39:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT.barGraphAuthorTabTickFormatTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="logMethod(java.lang.reflect.Method)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="logMethod" is-config="true" duration-ms="1" started-at="2017-02-13T07:39:45Z" finished-at="2017-02-13T07:39:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT.barGraphAuthorTabTickValueTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logMethod -->
+        <test-method status="PASS" signature="setupMethod(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="setupMethod" is-config="true" duration-ms="3166" started-at="2017-02-13T07:39:45Z" finished-at="2017-02-13T07:39:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2f2bf0e2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT.barGraphAuthorTabTickValueTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="goToItemsPage()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="goToItemsPage" is-config="true" duration-ms="11590" started-at="2017-02-13T07:39:49Z" depends-on-methods="com.pearson.test.eselenium.brix.tests.BasicBrixTest.setupMethod" finished-at="2017-02-13T07:40:00Z">
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Go to page: <br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- goToItemsPage -->
+        <test-method status="PASS" signature="gotoAuthorPage()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="gotoAuthorPage" is-config="true" duration-ms="12101" started-at="2017-02-13T07:40:00Z" depends-on-methods="com.pearson.test.eselenium.brix.tests.nemo.integration.AdvancedBasicBrixNT.goToItemsPage" finished-at="2017-02-13T07:40:12Z">
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- gotoAuthorPage -->
+        <test-method status="PASS" signature="loadBarChartAuthorTest()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="loadBarChartAuthorTest" is-config="true" duration-ms="2169" started-at="2017-02-13T07:40:12Z" depends-on-methods="com.pearson.test.eselenium.brix.tests.nemo.integration.AdvancedBasicBrixNT.gotoAuthorPage" finished-at="2017-02-13T07:40:14Z">
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: Bar Graph<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loadBarChartAuthorTest -->
+        <test-method status="PASS" signature="barGraphAuthorTabTickValueTest()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="barGraphAuthorTabTickValueTest" duration-ms="285939" started-at="2017-02-13T07:40:14Z" finished-at="2017-02-13T07:45:00Z">
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; Delete all the traces<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Add new traces<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Set the x and y points for the row: 1<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Set the x and y points for the row: 2<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Add a new point for trace number: 1 and set the x and y points for the row: 3<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Set the x and y points for the row: 1<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Set the x and y points for the row: 2<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Add a new point for trace number: 2 and set the x and y points for the row: 3<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Set the x and y points for the row: 1<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Set the x and y points for the row: 2<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Add a new point for trace number: 3 and set the x and y points for the row: 3<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Set Data axis tick values<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Set Category axis tick values<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Re order category tick values according to the trace order<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Go to preview Page<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that page Title equals: Nemo<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixAxisOrdinal<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixAxisLinear<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixLegend<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Check that piece class equals: brixGraph<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Verify points equal to: [0.0, 5.0, 10.0, 15.0, 20.0, 25.0, 30.0, 35.0, 40.0]<br/>]]>
+            </line>
+            <line>
+              <![CDATA[&bull; Verify points equal to: [Tabloids, Periodicals, Novellas, Category 1, Category 2, Category 3]<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- barGraphAuthorTabTickValueTest -->
+        <test-method status="PASS" signature="afterSuite(org.testng.ITestContext)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="afterSuite" is-config="true" duration-ms="399" started-at="2017-02-13T07:45:00Z" finished-at="2017-02-13T07:45:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2f2bf0e2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="afterMethod" is-config="true" duration-ms="375" started-at="2017-02-13T07:45:01Z" finished-at="2017-02-13T07:45:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=barGraphAuthorTabTickValueTest status=SUCCESS method=BarChartQuestionNT.barGraphAuthorTabTickValueTest()[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1] output=&bull; Delete all the traces<br/>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[&bull; SauceOnDemandSessionID=ebd58ebcbcc346c68b8fb681fb6b7fea job-name=barGraphAuthorTabTickValueTest<br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-02-13T07:45:01Z" finished-at="2017-02-13T07:45:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT.barGraphAuthorTabTickValueTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest(org.testng.ITestContext)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="afterTest" is-config="true" duration-ms="1" started-at="2017-02-13T07:45:01Z" finished-at="2017-02-13T07:45:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2f2bf0e2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite(int)[pri:0, instance:com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT@1c93f6e1]" name="afterSuite" is-config="true" duration-ms="14" started-at="2017-02-13T07:45:01Z" finished-at="2017-02-13T07:45:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.pearson.test.eselenium.brix.tests.nemo.integration.BarChartQuestionNT -->
+    </test> <!-- BarChart QuestionNT NT -->
+  </suite> <!-- Nemo Tests -->
+</testng-results>
